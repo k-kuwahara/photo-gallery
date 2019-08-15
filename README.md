@@ -26,7 +26,7 @@ $ npm start
 $ npm i -g ionic
 $ cd photo-gallery
 $ npm i
-$ ionic serve
+$ ionic serve --devapp --lab
 ```
 
 ## LICENSE
