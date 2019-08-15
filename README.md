@@ -15,8 +15,8 @@ This repo is developed using [Ionic DevApp](https://ionicframework.com/docs/appf
 * case1: using [@angular/cli](https://www.npmjs.com/package/@angular/cli)
 
 ```cmd
-$ npm i
 $ cd photo-gallery
+$ npm i
 $ npm start
 ```
 
